@@ -1,3 +1,4 @@
+
 # Created by https://www.toptal.com/developers/gitignore/api/java,eclipse
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse
 
@@ -93,25 +94,3 @@ local.properties
 hs_err_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse
-
-Week4/Chapter12/.classpath
-
-Week4/Chapter12/.project
-
-Week5/Chapter13/.classpath
-
-Week5/Chapter13/.project
-
-Week5/
-
-Chapter14/.classpath
-
-Chapter14/.project
-
-Chapter15/.classpath
-
-Chapter15/.project
-
-Chapter13/.classpath
-
-Chapter13/.project
